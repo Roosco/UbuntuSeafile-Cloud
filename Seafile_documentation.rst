@@ -1,7 +1,7 @@
 Praktični rad - Seafile
 =======================
 
-**Autori:** *Dominik Rusac, Berneš Stefano*
+**Autori:** *Dominik Rusac, Stefano Berneš*
 
 -------------------------------------------
 
